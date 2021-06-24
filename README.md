@@ -19,5 +19,9 @@ A big thanks to Maximilian Schwarzmüller for his course (Udemy) and the great t
       <td>Second Program: Re-Building the previous Application Using Vue</td>
       <td> A simple application that creates a list of goals </td>
     </tr>
+    <tr>
+      <td>Third Program: Introduction to Vue Basics</td>
+      <td> An application that displays random course goals </td>
+    </tr>
   </tbody>
 </table>
