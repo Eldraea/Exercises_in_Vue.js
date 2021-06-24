@@ -15,5 +15,9 @@ A big thanks to Maximilian Schwarzmüller for his course (Udemy) and the great t
       <td>First Program: Building an Application Using only JavaScript</td>
       <td> A simple application that creates a list of goals </td>
     </tr>
+    <tr>
+      <td>Second Program: Re-Building the previous Application Using Vue</td>
+      <td> A simple application that creates a list of goals </td>
+    </tr>
   </tbody>
 </table>
