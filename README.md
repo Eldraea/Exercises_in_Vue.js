@@ -27,5 +27,10 @@ A big thanks to Maximilian Schwarzmüller for his course (Udemy) and the great t
       <td>Third Program: Introduction to Vue Basics</td>
       <td> An application that displays random course goals </td>
     </tr>
+    <tr>
+      <td>4</td>
+      <td>First Challenge: Data Binding and Interpolation Challenge</td>
+      <td> An application that displays some informations about me and a picture </td>
+    </tr>
   </tbody>
 </table>
