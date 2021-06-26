@@ -42,5 +42,10 @@ A big thanks to Maximilian Schwarzmüller for his course (Udemy) and the great t
       <td>Second Challenge: The Events Challenge</td>
       <td> An application that shows an alert when the button is pressed, and displays the input on keydown</td>
     </tr>
+    <tr>
+      <td>7</td>
+      <td>Seventh Prgram: Introduction to ShortHands, Computed and Watchers</td>
+      <td> An application that displays a counter and a name and submits it </td>
+    </tr>
   </tbody>
 </table>
