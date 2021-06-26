@@ -44,8 +44,13 @@ A big thanks to Maximilian Schwarzmüller for his course (Udemy) and the great t
     </tr>
     <tr>
       <td>7</td>
-      <td>Seventh Prgram: Introduction to ShortHands, Computed and Watchers</td>
+      <td>Seventh Program: Introduction to ShortHands, Computed and Watchers</td>
       <td> An application that displays a counter and a name and submits it </td>
+    </tr>
+     <tr>
+      <td>8</td>
+      <td>Eighth Program: The Third Challenge</td>
+      <td> An application that add 5 or 1 to a counter then resets it </td>
     </tr>
   </tbody>
 </table>
