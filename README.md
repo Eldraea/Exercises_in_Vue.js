@@ -52,5 +52,10 @@ A big thanks to Maximilian Schwarzmüller for his course (Udemy) and the great t
       <td>Eighth Program: The Third Challenge</td>
       <td> An application that add 5 or 1 to a counter then resets it </td>
     </tr>
+      <tr>
+      <td>8</td>
+      <td>Ninth Program: Adding CSS dynamically</td>
+      <td> An application that colores the boxes selected and uncolores them when we unselect it </td>
+    </tr>
   </tbody>
 </table>
