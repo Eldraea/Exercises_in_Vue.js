@@ -37,5 +37,10 @@ A big thanks to Maximilian Schwarzmüller for his course (Udemy) and the great t
       <td>Fifth Program: Introduction to Events and Methods</td>
       <td> An application that displays a counter and a name and submits it </td>
     </tr>
+    <tr>
+      <td>6</td>
+      <td>Second Challenge: The Events Challenge</td>
+      <td> An application that shows an alert when the button is pressed, and displays the input on keydown</td>
+    </tr>
   </tbody>
 </table>
