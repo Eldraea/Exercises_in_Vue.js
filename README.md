@@ -53,9 +53,14 @@ A big thanks to Maximilian Schwarzmüller for his course (Udemy) and the great t
       <td> An application that add 5 or 1 to a counter then resets it </td>
     </tr>
       <tr>
-      <td>8</td>
+      <td>9</td>
       <td>Ninth Program: Adding CSS dynamically</td>
       <td> An application that colores the boxes selected and uncolores them when we unselect it </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>Fourth Challenge: Use a input as a CSS Class</td>
+      <td> An application that colores a paragraph according to an input and hide the paragrah or not by pushing on the button</td>
     </tr>
   </tbody>
 </table>
