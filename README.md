@@ -62,5 +62,10 @@ A big thanks to Maximilian Schwarzmüller for his course (Udemy) and the great t
       <td>Fourth Challenge: Use a input as a CSS Class</td>
       <td> An application that colores a paragraph according to an input and hide the paragrah or not by pushing on the button</td>
     </tr>
+    <tr>
+      <td>11</td>
+      <td>Eleventh Program: Introduction to Conditional Contentn and Lists</td>
+      <td> An application that displays a list of goals if there is any</td>
+    </tr>
   </tbody>
 </table>
