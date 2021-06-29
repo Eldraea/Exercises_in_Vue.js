@@ -67,5 +67,10 @@ A big thanks to Maximilian Schwarzmüller for his course (Udemy) and the great t
       <td>Eleventh Program: Introduction to Conditional Contentn and Lists</td>
       <td> An application that displays a list of goals if there is any</td>
     </tr>
+    <tr>
+      <td>12</td>
+      <td>Fifth Challenge: The Conditional Content and Lists Challenge</td>
+      <td> An application that displays a list of goals if there is any</td>
+    </tr>
   </tbody>
 </table>
