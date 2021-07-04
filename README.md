@@ -72,5 +72,10 @@ A big thanks to Maximilian Schwarzmüller for his course (Udemy) and the great t
       <td>Fifth Challenge: The Conditional Content and Lists Challenge</td>
       <td> An application that displays a list of goals if there is any</td>
     </tr>
+    <tr>
+      <td>13</td>
+      <td>Thirteenth Program: The Monster Slayer Game</td>
+      <td> A Monster Slayer Game</td>
+    </tr>
   </tbody>
 </table>
